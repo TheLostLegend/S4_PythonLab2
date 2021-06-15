@@ -1,0 +1,33 @@
+{
+	"myjson_type": "function",
+	"__annotations__": {},
+	"__closure__": null,
+	"__code__": {
+		"myjson_type": "code",
+		"co_argcount": 0,
+		"co_cellvars": [],
+		"co_code": d[100, 1, 125, 0, 100, 0, 83, 0],
+		"co_consts": [null, "asd"],
+		"co_filename": "/home/thelostlegend/PycharmProjects/Lab2/PickleT.py",
+		"co_firstlineno": 7,
+		"co_flags": 67,
+		"co_freevars": [],
+		"co_kwonlyargcount": 0,
+		"co_lnotab": d[0, 1, 4, 1],
+		"co_name": "simple_func",
+		"co_names": [],
+		"co_nlocals": 1,
+		"co_posonlyargcount": 0,
+		"co_stacksize": 1,
+		"co_varnames": ["some_field"]
+	},
+	"__defaults__": null,
+	"__dict__": {},
+	"__globals__": {
+		"myjson_type": "globals"
+	},
+	"__kwdefaults__": null,
+	"__module__": null,
+	"__name__": "simple_func",
+	"__qualname__": "simple_func"
+}
